@@ -1,0 +1,4 @@
+Hello!
+This is whatever in the git repository,
+...
+And that's all!
